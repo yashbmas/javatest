@@ -1,0 +1,7 @@
+
+# eclipse ignore general
+.classpath
+target/
+.project
+.settings/
+test-output/
